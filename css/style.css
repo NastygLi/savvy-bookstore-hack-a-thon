@@ -5,7 +5,7 @@ html {
 }
 
 img {
-  width: 100%;
+  width: 50%;
 }
 
 /*put all other styles below this line, please*/
@@ -58,9 +58,11 @@ img {
 }
 
 #header{
-  background-color: blue;
+  background-color: teal;
   font-family: 'Courier New', Courier, monospace;
+  text-align: center;
 }
+
 
 #content{
   background-color: lightblue;
@@ -69,7 +71,7 @@ img {
 }
 
 #footer{
-  background-color: blue;
+  background-color: teal;
   font-family: 'Courier New', Courier, monospace;
 }
 
